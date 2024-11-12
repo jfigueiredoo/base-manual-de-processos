@@ -1,34 +1,34 @@
 const data = {
-    "Setor de Segurança": {
-        "Gestor de SSO": {
-            "Preenchimento de EPI e Aplicação dos Programas de SST": [
-                "A01: Anualmente ou quando há demanda",
-                "A02: Receber programas (PGR)",
-                "A03: Receber ficha de EPI dos funcionários antecipadamente, via E-mail ou documento físico",
-                "A04: Fazer análise de riscos da operação, a partir do documento anteriormente recebido",
-                "A05: Auxiliar compra e receber programas de SST, podendo ser de contratos externos ou da própria empresa, dependendo dos riscos",
-                "A06: Entender necessidades de enxoval para a equipe",
-                "A07: Fazer entrega do enxoval (conjunto dos EPIs para o colaborador) no primeiro dia de trabalho",
-                "A08: Preencher dados da ficha de EPI através da planilha do Excel",
-                "A09: Enviar ficha de EPI's para gestor e funcionários via Teams ou E-Mail",
-                "A10: Receber devolutiva da ficha de EPI assinada pelo colaborador via E-Mail ou Teams",
-                "A11: Baixar ficha de EPIs já preenchida",
-                "A12: Anexar ficha de EPIs juntamente com o CA na pasta no sistema",
-                "A13: Conclusão do Preenchimento de EPI e Aplicação dos Programas de SST"
+    "Setor": {
+        "Cargo": {
+            "Processo": [
+                "A01: Atividade 1",
+                "A02: Atividade 2",
+                "A03: Atividade 3",
+                "A04: Atividade 4",
+                "A05: Atividade 5",
+                "A06: Atividade 6",
+                "A07: Atividade 7",
+                "A08: Atividade 8",
+                "A09: Atividade 9",
+                "A10: Atividade 10",
+                "A11: Atividade 11",
+                "A12: Atividade 12",
+                "A13: Atividade 13"
             ],
-            "Atendimento aos Requisitos Legais SSO": [
-                "A01: Mensalmente",
-                "A02: Verificar requisitos legais",
-                "A03: Atualizar planilha ou receber planilha atualizada",
-                "A04: Verificar atendimento das leis",
-                "A05: Está tudo atendendo às leis?",
+            "Processo": [
+                "A01: Atividade 1",
+                "A02: Atividade 2",
+                "A03: Atividade 3",
+                "A04: Atividade 4",
+                "A05: Atividade 5?",
                 "Caso SIM: Ir para A06 e seguir leitura",
                 "Caso NÃO: Voltar para A02 e seguir leitura",
-                "A06: Monitorar atendimento das leis",
-                "A07: Tudo certo no monitoramento?",
+                "A06: Atividade 6",
+                "A07: Atividade 7",
                 "Caso SIM: Ir para A08 e finalizar processo",
                 "Caso NÃO: Voltar para A04 e seguir leitura",
-                "A08: Processo de Atendimento aos Requisitos Legais de SSO encerrado"
+                 "A08: Atividade 8"
             ]
         }
     }
@@ -36,7 +36,7 @@ const data = {
 
 const descricaoDetalhada = {
     "Nome da Atividade": "Escreva uma pequena descrição do processo",
-    "Nome da Atividade": "<img src='img/img-segurança/Doc. Preenchimento de EPI e AplicaÃ§Ã£o dos Programas de SST (3) 05.01.2024 - Pedro Couto Diagrama.png' style='width: 100%; height: auto;'>"
+    "Nome da Atividade": "<img src='img/caso queirma colocar alguma imagem.png' style='width: 100%; height: auto;'>"
     // Adicione mais descrições detalhadas conforme necessário
 };
 
