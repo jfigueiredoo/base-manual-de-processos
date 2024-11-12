@@ -28,7 +28,7 @@ const data = {
                 "A07: Atividade 7",
                 "Caso SIM: Ir para A08 e finalizar processo",
                 "Caso NÃO: Voltar para A04 e seguir leitura",
-                 "A08: Atividade 8"
+                "A08: Atividade 8"
             ]
         }
     }
